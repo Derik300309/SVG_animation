@@ -45,6 +45,10 @@ body {
   }
 }
 
+#Vector_8 {
+  transform: translateY(5px);
+}
+
 #Shoe {
   animation: rotate 1s infinite alternate;
   transform-origin: right;
